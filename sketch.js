@@ -123,7 +123,7 @@ function draw() {
     zombie.changeAnimation("lefttoright");
   }
 
-  drawSprites();
+  drawSprites();}
 }
 
 function handleButtonPress() {
